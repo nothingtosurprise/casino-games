@@ -15,7 +15,7 @@ Telegram: https://t.me/opensea712
 
 ## 🎯 Overview
 
-ShinyBet is a full-stack sports betting and casino platform that provides users with a seamless gaming and betting experience. The platform consists of three main components working together to deliver a complete solution:
+ShinyBet is a sports betting and casino platform that provides users with a seamless gaming and betting experience. The platform consists of three main components working together to deliver a complete solution:
 
 - **Backend**: RESTful API server built with Node.js, Express, and TypeScript
 - **Frontend**: User-facing web application built with React and TypeScript
